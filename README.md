@@ -41,3 +41,4 @@ logger.writeInfo('this is a super error log')//write an error type
 23/04/23 23h18m18s [ERROR] this is a super error log
 
 # QuickLogfile
+# QuickLogfile
