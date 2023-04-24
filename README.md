@@ -42,3 +42,4 @@ logger.writeInfo('this is a super error log')//write an error type
 
 # QuickLogfile
 # QuickLogfile
+# QuickLogfile
